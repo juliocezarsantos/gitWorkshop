@@ -20,6 +20,8 @@ struct ContentView: View {
         .padding()
     }
 }
+//Passei por aqui e adicionei esse comentario/////
+
 
 #Preview {
     ContentView()
